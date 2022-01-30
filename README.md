@@ -1,9 +1,9 @@
 # Hash-Table-Chainning-Red-Black-Tree
 
-Credits: 
+<h2>Credits: </h2>
 
-Mayur Prakash Pimapale
+Mayur Prakash Pimapale<br>
 https://github.com/gitMayur05
 
-Manas Miglani 
+Manas Miglani <br>
 https://github.com/manuTRON
