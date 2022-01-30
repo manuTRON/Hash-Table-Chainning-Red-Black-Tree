@@ -2,7 +2,7 @@
 
 <h2>Credits: </h2>
 
-Mayur Prakash Pimapale<br>
+Mayur Prakash Pimpale<br>
 https://github.com/gitMayur05
 
 Manas Miglani <br>
